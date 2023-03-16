@@ -1,4 +1,4 @@
-#RECOPILACIÓN PASIVA
+# RECOPILACIÓN PASIVA
 
 Aplicamos técnicas de OSINT.
 
@@ -11,7 +11,7 @@ Whois, archive.org, Theharvester, Maltego, Recon-ng.
 
 
 
-#RECOPILACIÓN SEMI-PASIVA
+# RECOPILACIÓN SEMI-PASIVA
 
 FOCA: descarga y análisis de metadatos
 
@@ -19,11 +19,11 @@ CentralOPS y DNSdumpster, Wireshark.
 
 
 
-#RECOPILACIÓN ACTIVA
+# RECOPILACIÓN ACTIVA
 
 Transferencia fichero de zona: dnsrecon -d [dominio] -t axfr
 
-##Nmap:
+## Nmap:
 
 Descubrimiento de Hosts: nmap -sN [IP] esta opción utiliza el protocolo TCP intentando establecer conexiones (mas intrusiva)
                          sudo nmap -sN [IP] esta opción utiliza el protocolo ARP (menos intrusiva)
