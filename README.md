@@ -53,7 +53,7 @@ Enumeración SNMP utilizando Scripts: sudo nmap -v -sU -p 161 --script=[nombre d
 
 
 
-#ANÁLISIS DE VULNERABILIDADES:
+# ANÁLISIS DE VULNERABILIDADES:
 
 De forma manual tomamos le imput de la fase anterior, como puede ser el fichero .xsl creado por nmap con los servicios y versiones que corren en el sistema objetivo, y buscamos estos servicios y versión en una base de datos como cve details, cve mitre, cvss. En estas bases de datos identificamos si efectivamente existen vulnerabilidades conocidas en esos sistemas y ahí poder buscar exploits ya sea en exploitdb vulmon, o google.
 
