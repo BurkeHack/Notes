@@ -1,8 +1,8 @@
 # RECOPILACIÓN PASIVA
 
-Aplicamos técnicas de OSINT.
+Aplicar técnicas de OSINT.
 
-Buscamos información en internet con google hacking y comando booleanos (existe una base de datos de google hacking).
+Buscar información en internet con google hacking y comando booleanos (existe una base de datos de google hacking).
 
 Buscar información en Shodan, en Censys.
 
